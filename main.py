@@ -1,4 +1,4 @@
-import comfy.options
+from comfyui import options 
 comfy.options.enable_args_parsing()
 
 import os
